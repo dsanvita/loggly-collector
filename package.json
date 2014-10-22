@@ -1,0 +1,9 @@
+{
+	"name": "loggly-collector",
+	"description": "log gvp events to loggly",
+	"version": "0.0.1",
+	"dependencies": {
+		"dotenv": "latest",
+		"loggly": "latest"
+	}
+}
